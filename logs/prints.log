@@ -1,0 +1,7 @@
+15:05:39.686 [main] FATAL alpha.Demo - this is fatal
+15:05:39.690 [main] INFO  alpha.Demo - this is info
+15:05:39.690 [main] DEBUG alpha.Demo - this is debug
+15:07:45.266 [main] FATAL alpha.Demo - this is fatal
+15:08:16.288 [main] FATAL beta.Demo1 - this is fatal
+15:08:16.292 [main] INFO  beta.Demo1 - this is info
+15:08:16.292 [main] DEBUG beta.Demo1 - this is debug
